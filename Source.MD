@@ -3,7 +3,7 @@
 
 # Output
 
-* Make Paperclip - buyWire();
+* Button:Make Paperclip - buyWire();
 * Button:lower - lowerPrice();
 * Button:raise - raisePrice();
 * Button:marketing - buyAds();

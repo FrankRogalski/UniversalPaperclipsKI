@@ -1,1 +1,2 @@
-* unsoldClips = Get unsold paper clips
+* unsoldClips = get unsold paper clips
+* funds = get Available Funds

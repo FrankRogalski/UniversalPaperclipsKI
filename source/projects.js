@@ -6,7 +6,7 @@ var projects = [];
 var activeProjects = [];
 
 var project1 = {
-    id: "projectButton1",
+    id: "projectButton1", 
     title: "Improved AutoClippers ",
     priceTag: "(750 ops)",
     description: "Increases AutoClipper performance 25%",

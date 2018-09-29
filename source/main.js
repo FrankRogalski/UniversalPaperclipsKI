@@ -5,7 +5,7 @@ function threnodyLoaded()
     threnodyLoadedBool = true; 
 }
 
-var threnodyAudio;
+var threnodyAudio; 
 
 function loadThrenody() {
     threnodyAudio.src = "test.mp3";

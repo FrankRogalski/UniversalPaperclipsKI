@@ -21,7 +21,7 @@ var grid = new Array(battleGRID_HEIGHT);
 var numLeftShips = 0;
 var numRightShips = 0;
 
-var probeCombat = 0;
+var probeCombat = 0; 
 var probeCombatBaseRate = .15;
 var attackSpeed = .2;
 var battleSpeed = .2;

@@ -8,6 +8,6 @@
 * Button:raise - raisePrice();
 * Button:marketing - buyAds();
 * Button:Wire - buyWire(); 
-* Button:AutoClippers - makeClipper();
+* Button:AutoClippers - makeClipper(); 
 * Button:Processors - addProc();
 * Button:Memory - addMem();

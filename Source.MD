@@ -64,3 +64,27 @@
 * Button:AutoClippers - makeClipper(); 
 * Button:Processors - addProc();
 * Button:Memory - addMem();
+* Button-Quantum:Compute - qComp();
+* Button-Strategic:AutoTourney - toggleAutoTourney();
+* Button-Strategic:New Tournament - newTourney();
+* Button-Strategic:Run - runTourney();
+* Button-ProductionMW:Solar Farm - makeFarm(1);
+* Button-ProductionMW:+10 - makeFarm(10);
+* Button-ProductionMW:+100 - makeFarm(100);
+* Button-ProductionMW:Disassemble All - farmReboot();
+* Button-StorageMW:Battery Tower - makeBattery(1);
+* Button-StorageMW:+10 - makeBattery(10);
+* Button-StorageMW:+100 - makeBattery(100);
+* Button-StorageMW:Disassemble All - batteryReboot();
+* Button-WireProduction HarvesterDrone:Harvester Drone - makeHarvester(1);
+* Button-WireProduction HarvesterDrone:+10 - makeHarvester(10);
+* Button-WireProduction HarvesterDrone:+100 - makeHarvester(100);
+* Button-WireProduction HarvesterDrone:+1k - makeHarvester(1000);
+* Button-WireProduction WireDrone:Wire Drone - makeWireDrone(1);
+* Button-WireProduction WireDrone:+10 - makeWireDrone(10);
+* Button-WireProduction WireDrone:+100 - makeWireDrone(100);
+* Button-WireProduction WireDrone:+1k - makeWireDrone(1000);
+* Button-WireProduction WireDrone:Disassemble All - wireDroneReboot();
+* Button-Manufacturing:Clip Factory - makeFactory();
+* Button-Manufacturing:Disassemble All - factoryReboot();
+
